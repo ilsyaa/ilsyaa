@@ -9,10 +9,10 @@
 from github.profile import ReadMe
 class nopebee7 ( ReadMe ) :
     def __init__ ( self ) :
-        self.username  = "nopebee7"
+        self.username  = "ilsyaa"
         self.location  = "Indonesia"
-        self.discord   = "JarSenpai#5431"
-        self.languages = [ "Python", "PHP", "Javascript", "Golang" ]
+        self.discord   = "Ilsyaa#0557"
+        self.languages = [ "PHP", "Kotlin", "Javascript", "C#", "Java" ]
     def about ( self ) :
         print( f"Hi, I'm {self.username}. Contact me at {self.discord}" )
 me = nopebee7()
