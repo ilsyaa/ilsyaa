@@ -7,7 +7,7 @@
              \/ \/          \/     \/ 
 </pre> 
 
-<img align="left" src="https://i.ibb.co/qyjddHz/photoshop-export-2021.jpg" alt="IlsyaaCa" width="273" />  
+<img align="left" src="https://i.ibb.co/qyjddHz/photoshop-export-2021.jpg" alt="IlsyaaCa" width="250" />  
 
 ```python
 from github.profile import ReadMe
