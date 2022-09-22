@@ -7,11 +7,11 @@
              \/ \/          \/     \/ 
 </pre> 
 
-<img align="left" src="https://i.ibb.co/qyjddHz/photoshop-export-2021.jpg" alt="Senpai" width="273" />  
+<img align="left" src="https://i.ibb.co/qyjddHz/photoshop-export-2021.jpg" alt="IlsyaaCa" width="273" />  
 
 ```python
 from github.profile import ReadMe
-class nopebee7 ( ReadMe ) :
+class ilsyaa ( ReadMe ) :
     def __init__ ( self ) :
         self.username  = "ilsyaa"
         self.location  = "Indonesia"
@@ -19,6 +19,6 @@ class nopebee7 ( ReadMe ) :
         self.languages = [ "PHP", "Kotlin", "Javascript", "C#", "Java" ]
     def about ( self ) :
         print( f"Hi, I'm {self.username}. Contact me at {self.discord}" )
-me = nopebee7()
+me = ilsyaa()
 me.about()
 ```
