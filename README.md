@@ -3,7 +3,7 @@
 █ █▄▄ ▄█ ░█░ █▀█ █▀█
 </pre> 
 
-<img align="left" src="https://i.ibb.co/4YxVR7Y/image-4.png" alt="Senpai" width="273" />  
+<img align="left" src="https://i.ibb.co/qyjddHz/photoshop-export-2021.jpg" alt="Senpai" width="273" />  
 
 ```python
 from github.profile import ReadMe
