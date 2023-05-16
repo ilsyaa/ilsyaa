@@ -1,12 +1,3 @@
-<pre align="center">
-.__.__                                
-|__|  |   _________.__._____  _____   
-|  |  |  /  ___<   |  |\__  \ \__  \  
-|  |  |__\___ \ \___  | / __ \_/ __ \_
-|__|____/____  >/ ____|(____  (____  /
-             \/ \/          \/     \/ 
-</pre> 
-
 ```python
 from github.profile import ReadMe
 class ilsyaa ( ReadMe ) :
