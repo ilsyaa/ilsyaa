@@ -11,7 +11,6 @@ class ilsyaa ( ReadMe ) :
 me = ilsyaa()
 me.about()
 ```
-<p align="center">
-    <img src="https://lanyard.kyrie25.me/api/933973034690314251" />
-</p>
+<p align="center"><img src="https://lanyard.kyrie25.me/api/933973034690314251" /></p>
+
 [![An image of @ilsyaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ilsyaa)](https://holopin.io/@ilsyaa)
