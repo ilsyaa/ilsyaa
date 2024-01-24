@@ -1,5 +1,5 @@
 # Hai Wir! 😺
-<b>I'm Ilham Cahya (Ilsya) - I'm a fullstack developer and designer.</b> i m interested in development, moderation and building thriving online communities. I work on random projects in my free time.
+<b>I'm Ilham Cahya (Ilsya)</b> - I'm a fullstack developer and designer. i m interested in development, moderation and building thriving online communities. I work on random projects in my free time.
 
 <p align="center">
   <a href="https://velixs.com">
