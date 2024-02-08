@@ -18,3 +18,4 @@
 </p>
 
 <p align="center"><img src="https://lanyard.kyrie25.me/api/933973034690314251" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilsyaa&layout=compact&theme=tokyonight" /></p>
