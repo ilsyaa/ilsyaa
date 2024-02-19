@@ -1,11 +1,5 @@
-<a href="https://www.velixs.com">
-  <picture>
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="./2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./2.svg" /> -->
-    <img alt="Ilsya | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./woila.svg" width="100%" />
-  </picture>
-</a>
-<header>
+<b>I'm Ilham Cahya (Ilsya)</b> - I'm a fullstack developer and designer. i m interested in development, moderation and building thriving online communities. I work on random projects in my free time.\
+<br />
   <div align="center">
     <a href="https://velixs.com">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=00C1FF&label=Website&message=velixs.com&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
@@ -17,10 +11,7 @@
       <img alt="My Linkedin Community" src="https://img.shields.io/static/v1?color=00C1FF&label=Linkedin&message=ilsyaa&style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
     </a>
   </div>
-</header>
-<br />
-<b>I'm Ilham Cahya (Ilsya)</b> - I'm a fullstack developer and designer. i m interested in development, moderation and building thriving online communities. I work on random projects in my free time.
-
+  <br />
 <p align="center">
   <a href="https://velixs.com">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,alpinejs,sass,threejs" />
