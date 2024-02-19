@@ -1,4 +1,23 @@
-# Hai Wir! 😺
+<a href="https://www.velixs.com">
+  <picture>
+    <!-- <source media="(prefers-color-scheme: dark)" srcset="./2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./2.svg" /> -->
+    <img alt="Ilsya | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./woila.svg" width="100%" />
+  </picture>
+</a>
+<header>
+  <div align="center">
+    <a href="https://velixs.com">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=00C1FF&label=Website&message=velixs.com&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a href="https://www.instagram.com/ilsya.velixs/">
+      <img alt="My Instagram Profile" src="https://img.shields.io/badge/Instagram-ilsya.velixs-00C1FF?style=flat&logo=instagram&logoColor=ffffff&labelColor=334155">
+    </a>
+    <a href="https://www.linkedin.com/in/ilsyaa/">
+      <img alt="My Linkedin Community" src="https://img.shields.io/static/v1?color=00C1FF&label=Linkedin&message=ilsyaa&style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
+    </a>
+  </div>
+</header>
 <b>I'm Ilham Cahya (Ilsya)</b> - I'm a fullstack developer and designer. i m interested in development, moderation and building thriving online communities. I work on random projects in my free time.
 
 <p align="center">
