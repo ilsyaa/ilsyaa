@@ -1,5 +1,9 @@
 <div align="center">
   <a href="https://velixs.com">
+    <img alt="Github" src="https://i.ibb.co/D5FSCYV/GitHub.png">
+  </a>
+  <br />
+  <a href="https://velixs.com">
     <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=27ff73&label=Website&message=velixs.com&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
   </a>
   <a href="https://www.instagram.com/ilsya.velixs/">
