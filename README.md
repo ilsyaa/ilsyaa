@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://velixs.com">
-    <img alt="Github" src="https://i.ibb.co/D5FSCYV/GitHub.png">
+    <img alt="Github" height="200px" src="https://i.ibb.co/MRDYTtg/328110365-d40e653d-098f-43d9-b845-ea2c53ca1036.png">
   </a>
   <br />
   <a href="https://velixs.com">
