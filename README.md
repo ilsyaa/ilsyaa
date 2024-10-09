@@ -1,8 +1,5 @@
+
 <div align="center">
-  <a href="https://velixs.com">
-    <img alt="Github" height="200px" src="https://i.ibb.co/MRDYTtg/328110365-d40e653d-098f-43d9-b845-ea2c53ca1036.png">
-  </a>
-  <br />
   <a href="https://velixs.com">
     <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=27ff73&label=Website&message=velixs.com&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
   </a>
@@ -13,7 +10,8 @@
     <img alt="My Linkedin Community" src="https://img.shields.io/static/v1?color=27ff73&label=Linkedin&message=ilsyaa&style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
   </a>
 </div>
-<b>I'm Ilham Cahya (Ilsya)</b> - I'm a fullstack developer and designer. i m interested in development, moderation and building thriving online communities. I work on random projects in my free time.
-<br />
-<p align="center"><img src="https://lanyard.kyrie25.me/api/933973034690314251" /></p>
+<div><b>I'm Ilham Cahya (Ilsya)</b> - I'm a fullstack developer and designer. i m interested in development, moderation and building thriving online communities. I work on random projects in my free time.</div>
+<br/>
+
+[![An image of @ilsyaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ilsyaa)](https://holopin.io/@ilsyaa)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilsyaa&layout=compact&theme=tokyonight" /></p>
