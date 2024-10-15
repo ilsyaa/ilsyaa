@@ -14,4 +14,6 @@
 <br/>
 
 [![An image of @ilsyaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ilsyaa)](https://holopin.io/@ilsyaa)
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ilsyaa}/count.svg" alt="Ilsya:: Visitor's Count"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilsyaa&layout=compact&theme=tokyonight" /></p>
