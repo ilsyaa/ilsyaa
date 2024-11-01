@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ilsyaa}/count.svg" alt="Ilsya:: Visitor's Count"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilsyaa&layout=compact&theme=tokyonight" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilsyaa&layout=compact&theme=codeSTACKr" /></p>
 <div align="center">
 <img src="cdn/img/cat-line.png" alt="Ilsya" />
 </div>
